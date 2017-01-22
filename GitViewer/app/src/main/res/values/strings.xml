@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GitViewer</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="git_client_id">733d208e52268423ea29</string>
+    <string name="git_client_secret">0539597f8e589216a86c8ca77213f5ec5911e57e</string>
+    <string name="git_client_accesstoken">75c036dc477412152b6770b96a5589d2e7ebc153</string>
+    <string name="title_activity_git_viewer_home_feed">GitViewerHomeFeedActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>
